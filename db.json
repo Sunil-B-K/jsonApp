@@ -1,0 +1,106 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "sunilbcvcvc",
+      "email": "emai@gamil.comvhjghj"
+    },
+    {
+      "id": "2",
+      "name": "anil",
+      "email": "anil@gamil.com"
+    },
+    {
+      "id": "3",
+      "name": "sunil",
+      "email": "emai@gamil.com"
+    },
+    {
+      "id": "4",
+      "name": "basu",
+      "email": "basu@gamil.com"
+    },
+    {
+      "id": "5",
+      "name": "priti",
+      "email": "priti@gamil.com"
+    },
+    {
+      "id": "6",
+      "name": "getha",
+      "email": "getha@gamil.com"
+    },
+    {
+      "name": "sunil",
+      "email": "Sunilkuligod@globalwebtechnology.in",
+      "id": "3IucFdU"
+    },
+    {
+      "name": "sunil",
+      "email": "Sunilkuligod@globalwebtechnology.com",
+      "id": "kwnyYhP"
+    },
+    {
+      "name": "sunil",
+      "email": "canduscarpet@gmail.com",
+      "id": "1OHWDOd"
+    },
+    {
+      "name": "My Cart",
+      "email": "Sunilkuligod@globalwebtechnology.in",
+      "id": "bh_CgA8"
+    },
+    {
+      "name": "sunil",
+      "email": "canduscarpet@gmail.com",
+      "id": "yH2mCZy"
+    },
+    {
+      "name": "sunil",
+      "email": "canduscarpet@gmail.com",
+      "id": "q01oTib"
+    },
+    {
+      "name": "sunil",
+      "email": "canduscarpet@gmail.com",
+      "id": "zW_eLj2"
+    },
+    {
+      "name": "sewthhjk",
+      "email": "canduscarpet@gmail.com",
+      "id": "_7FMdQy"
+    },
+    {
+      "id": "OCnbzb8",
+      "name": "sunil",
+      "email": "canduscarpet@gmail.com"
+    },
+    {
+      "id": "Nvrcamg",
+      "name": "check",
+      "email": "Sunilkuligod@globalwebtechnology.com"
+    },
+    {
+      "name": "gayatri",
+      "email": "canduscarpet@gmail.com",
+      "id": "VvoyG4H"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
